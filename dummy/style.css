@@ -1,0 +1,42 @@
+  
+  .container-fluid {
+    background-color: rgb(146, 146, 180);
+   
+   
+  }
+  .d-flex{
+    background-color: rgb(146, 146, 180);
+  }
+  .d-flex:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* optional */
+  }
+  .heading{
+    background-color: rgb(146, 146, 180);
+  }
+  .card1{
+    background-color: rgb(146, 146, 180);
+        background-color: rgb(146, 146, 180);
+       display: flex;
+        flex-wrap: wrap;
+       }
+       .children{
+        background-color: rgb(146, 146, 180);
+        background-color: rgb(146, 146, 180);
+       display: flex;
+        flex-wrap: wrap;
+       }
+      .children:hover{
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* optional */
+      }
+      .card {
+        margin: 10px;
+      }
+      
+      .w-100 {
+        width: 100%;
+        height: 30px;
+      }
+      .jumbotron{
+        
+      }
+     
